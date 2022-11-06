@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jaldi&display=swap');
+
+body{
+    font-family: 'Inter', sans-serif;
+    margin: 0px;
+}
+
+h1{
+    background-color: rgba(64, 1, 1, 1);
+    color: white;
+    text-align: center;
+    margin: 0px;
+    padding:15px;
+}
+
+p{
+    margin-right: 60px;
+}
+#menu{
+    margin: 0px;
+    padding: 10px 0px 10px 220px;
+    background-color: rgba(255, 223, 200, 1);
+}
+
+#menu > li{
+    list-style: none;    
+    padding: 10px 0px 10px 70px;
+    display: inline;
+}
+
+#menu a{
+    text-decoration: none;
+    color: black;
+}
+
+#pesqid{
+    position: absolute;
+    border-radius: 50px;
+    border: solid 1px rgba(64, 1, 1, 1);
+    top: 80px;
+    left: 1100px;
+}
+
+#login{
+    position: absolute;
+    left: 1290px;
+    top: 75px;
+    width: 40px;
+}
+
+#lupa{
+    position: absolute;
+    left: 1250px;
+    top: 83px;
+    width: 20px;
+}
+
+h2{
+    font-family: 'Jaldi', sans-serif;
+    margin-left: 40px;
+    color: rgba(89, 25, 2, 1);
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+p{
+    margin-left: 40px;
+}
+
+#samba{
+    margin: 100px 0px 100px 0px;
+    background-color: rgba(255, 237, 223, 1);
+    padding: 50px 0px 50px 0px;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.432);
+}
+
+#samba p{
+    width: 800px;
+}
+
+#samba-img{
+    position: absolute;
+    width: 400px;
+    left: 900px;
+    top: 290px;
+}
+
+#pedagio{
+    margin: 100px 0px 100px 0px;
+    background-color: rgba(89, 25, 2, 1);
+    padding: 50px 0px 50px 0px;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.432);
+}
+
+#pedagio p{
+    width: 800px;
+    margin-left: 500px;
+    color: rgba(255, 237, 223, 1);
+}
+
+#pedagio-img{
+    position: absolute;
+    width: 400px;
+    left: 40px;
+    top: 700px;
+}
+
+#pedagio h2{
+    font-family: 'Jaldi', sans-serif;
+    margin-left: 500px;
+    color: rgba(255, 237, 223, 1);
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+#metro{
+    margin: 100px 0px 100px 0px;
+    background-color: rgba(255, 237, 223, 1);
+    padding: 50px 0px 50px 0px;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.432);
+}
+
+#metro p{
+    width: 800px;
+}
+
+#metro-img{
+    position: absolute;
+    width: 400px;
+    left: 900px;
+    top: 1190px;
+}
+
+
+#forum{
+    margin: 100px 0px 100px 0px;
+    background-color: rgba(89, 25, 2, 1);
+    padding: 50px 0px 50px 0px;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.432);
+}
+
+#forum p, #forum li{
+    width: 800px;
+    margin-left: 500px;
+    color: rgba(255, 237, 223, 1);
+}
+
+#forum-img{
+    position: absolute;
+    width: 400px;
+    left: 40px;
+    top: 1700px;
+}
+
+#forum h2{
+    font-family: 'Jaldi', sans-serif;
+    margin-left: 500px;
+    color: rgba(255, 237, 223, 1);
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+
+#igreja{
+    margin: 100px 0px 100px 0px;
+    background-color: rgba(255, 237, 223, 1);
+    padding: 50px 0px 50px 0px;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.432);
+}
+
+#igreja p{
+    width: 800px;
+}
+
+#igreja-img{
+    position: absolute;
+    width: 400px;
+    left: 900px;
+    top: 2200px;
+}
+
+
+/*Footer*/
+footer{
+    background-color: rgba(64, 1, 1, 1);
+    margin-bottom: 0px;
+    padding: 30px 0px 50px 0px;
+    margin-top: 120px;
+}
+
+footer img{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+footer p{
+    margin-left: 60px;
+    color: white;
+    font-weight: bolder;
+}
+
+#gobe{
+    text-align: end;
+    font-size: x-large;
+    width: 500px;
+    color: white;
+    position: absolute;
+    left: 800px;
+    top: 2750px;
+}
+
+hr{
+    width: 20%;
+    position: absolute;
+    left: 1025px;
+    top: 2820px;
+}
+
+#gobe2{
+    position: absolute;
+    left: 1060px;
+    top: 2840px;
+    font-weight: 500;
+    font-style: italic;
+}

@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jaldi&display=swap');
+
+body{
+    font-family: 'Inter', sans-serif;
+    margin: 0px;
+}
+
+h1{
+    background-color: rgba(64, 1, 1, 1);
+    color: white;
+    text-align: center;
+    margin: 0px;
+    padding:15px;
+}
+
+p{
+    margin-right: 60px;
+}
+#menu{
+    margin: 0px;
+    padding: 10px 0px 10px 220px;
+    background-color: rgba(255, 223, 200, 1);
+}
+
+#menu > li{
+    list-style: none;    
+    padding: 10px 0px 10px 70px;
+    display: inline;
+}
+
+#menu a{
+    text-decoration: none;
+    color: black;
+}
+
+#pesqid{
+    position: absolute;
+    border-radius: 50px;
+    border: solid 1px rgba(64, 1, 1, 1);
+    top: 80px;
+    left: 1100px;
+}
+
+#login{
+    position: absolute;
+    left: 1290px;
+    top: 75px;
+    width: 40px;
+}
+
+#lupa{
+    position: absolute;
+    left: 1250px;
+    top: 83px;
+    width: 20px;
+}
+
+h2{
+    font-family: 'Jaldi', sans-serif;
+    margin-left: 40px;
+    color: #DC944C;
+    font-size: xx-large;
+    text-shadow: 
+    -1px -1px 0px rgba(164, 4, 4, 1), 
+    -1px 1px 0px rgba(164, 4, 4, 1),      
+     1px -1px 0px rgba(164, 4, 4, 1),    
+     1px 0px 0px rgba(164, 4, 4, 1);
+}
+
+p{
+    margin-left: 40px;
+}
+
+#caminhadas > p{
+    width: 750px;
+}
+
+#caminhada-img{
+    width: 450px;
+    position: absolute;
+    left: 850px;
+    top: 225px;
+}
+
+#avenida > p{
+    margin-left: 600px;
+}
+
+#avenida-img{
+    position: absolute;
+    top: 630px;
+    left: 40px;
+    height: 300px;
+    width: 500px;
+}
+
+#h2-av{
+    font-family: 'Jaldi', sans-serif;
+    margin-left: 600px;
+    color: #DC944C;
+    font-size: xx-large;
+    text-shadow: 
+    -1px -1px 0px rgba(164, 4, 4, 1), 
+    -1px 1px 0px rgba(164, 4, 4, 1),      
+     1px -1px 0px rgba(164, 4, 4, 1),    
+     1px 0px 0px rgba(164, 4, 4, 1);
+}
+
+#matriz p {
+    width: 750px;
+}
+
+#matriz-img{
+    position: absolute;
+    left: 850px;
+    top: 1000px;
+    width: 450px;
+}
+
+#matriz{
+    margin-bottom: 100px;
+}
+
+#feira h2{
+    font-family: 'Jaldi', sans-serif;
+    margin-left: 500px;
+    color: #DC944C;
+    font-size: xx-large;
+    text-shadow: 
+    -1px -1px 0px rgba(164, 4, 4, 1), 
+    -1px 1px 0px rgba(164, 4, 4, 1),      
+     1px -1px 0px rgba(164, 4, 4, 1),    
+     1px 0px 0px rgba(164, 4, 4, 1);
+}
+
+#feira p {
+    margin-left: 500px;
+}
+
+#feira-img{
+    position: absolute;
+    top: 1350px;
+    left: 40px;
+    height: 270px;
+}
+
+#feira{
+    margin-bottom: 100px;
+}
+
+#largo p {
+    margin-left: 40px;
+    width: 900px;
+}
+
+#lago-img{
+    position: absolute;
+    top: 1740px;   
+    left: 950px;
+}
+
+#largo{
+    margin-bottom: 100px;
+}
+
+#esportes h2{
+    margin-left: 600px;
+}
+
+#esportes p {
+    margin-left: 600px;
+}
+
+#esportes-img1{
+    margin-left: 40px;
+    position: absolute;
+    top: 2050px;
+    width: 500px;
+    height: 250px;
+}
+
+#esportes{
+    margin-bottom: 150px;
+}
+
+#esportes2 p {
+    margin-left: 40px;
+    width: 700px;
+}
+
+#esportes2 img{
+    width: 500px;
+    position: absolute;
+    left: 800px;
+    top: 2350px;
+}
+
+
+/*Footer*/
+footer{
+    background-color: rgba(64, 1, 1, 1);
+    margin-bottom: 0px;
+    padding: 30px 0px 50px 0px;
+    margin-top: 120px;
+}
+
+footer img{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+footer p{
+    margin-left: 60px;
+    color: white;
+    font-weight: bolder;
+}
+
+#gobe{
+    text-align: end;
+    font-size: x-large;
+    width: 500px;
+    color: white;
+    position: absolute;
+    left: 800px;
+    top: 2750px;
+}
+
+hr{
+    width: 20%;
+    position: absolute;
+    left: 1025px;
+    top: 2820px;
+}
+
+#gobe2{
+    position: absolute;
+    left: 1060px;
+    top: 2840px;
+    font-weight: 500;
+    font-style: italic;
+}

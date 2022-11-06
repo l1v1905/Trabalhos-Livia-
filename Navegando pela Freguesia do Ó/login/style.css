@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=K2D&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body{
+    font-family: 'Inter', sans-serif;
+    background-color: rgba(64, 1, 1, 0.349);
+}
+div{
+    background-color: rgba(64, 1, 1, 1);
+    margin: 50px 100px 10px 100px;
+    padding: 50px;
+    color: white;
+    width: 500px;
+    height: 400px;
+}
+
+h1{
+    font-family: 'K2D', sans-serif;
+}
+
+label{
+    color: rgba(217, 139, 72, 1);
+    margin-top: 50px;
+}
+
+#con{
+    background-color: rgba(183, 137, 51, 0.5);
+}
+
+#con , #can{
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+}
